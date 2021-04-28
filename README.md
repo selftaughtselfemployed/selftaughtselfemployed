@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selftaughtselfemployed
 - 👀 I’m interested in building shopify front-end stores in JS and possibly REACT
 - 🌱 I’m currently relearning HTML CSS and JS and learning REACT
-- 💞️ I’m looking to collaborate on anything to give mereal world experience with JS front end.
+- 💞️ I’m looking to collaborate on anything to give me real world experience with JS front end.
 - 📫 How to reach me: selftaughtselfemployed@gmail.com
 
 <!---
